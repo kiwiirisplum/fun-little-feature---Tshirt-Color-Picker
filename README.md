@@ -1,4 +1,4 @@
-# fun-little-feature
+# fun-little-features
 
 Tshirt-Color-Picker
 
